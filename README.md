@@ -1,5 +1,7 @@
-# prework-study-guide
-## A study guide for course-prework to give students a taste of what's to come.
+# Prework Study Guide Webpage
+## Description
+
+A study guide for course-prework to give students a taste of what's to come.
 
 ## Installation
 
